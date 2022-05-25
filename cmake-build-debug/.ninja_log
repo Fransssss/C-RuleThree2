@@ -1,0 +1,27 @@
+# ninja log v5
+6	173	6751501830572106	CMakeFiles/C_RuleThree2.dir/MyClass.cpp.obj	f1492c52cabbc83b
+0	1127	6751501840153388	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+1130	1752	6751501846270198	C_RuleThree2.exe	4054ed950dd3c617
+8	1351	6751504825005624	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+16	1383	6751504825668094	CMakeFiles/C_RuleThree2.dir/MyClass.cpp.obj	f1492c52cabbc83b
+17	987	6751505256220737	CMakeFiles/C_RuleThree2.dir/MyClass.cpp.obj	f1492c52cabbc83b
+9	997	6751505256306276	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+998	1299	6751505259294229	C_RuleThree2.exe	4054ed950dd3c617
+5	732	6751507363661231	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+733	988	6751507366244160	C_RuleThree2.exe	4054ed950dd3c617
+6	698	6751507610275039	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+699	886	6751507612066472	C_RuleThree2.exe	4054ed950dd3c617
+6	583	6751508475475868	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+583	841	6751508478079593	C_RuleThree2.exe	4054ed950dd3c617
+6	602	6751509290037127	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+603	944	6751509293764397	C_RuleThree2.exe	4054ed950dd3c617
+7	494	6751509388956336	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+494	731	6751509391150895	C_RuleThree2.exe	4054ed950dd3c617
+5	681	6751510382105217	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+683	930	6751510384567200	C_RuleThree2.exe	4054ed950dd3c617
+6	483	6751510487969723	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+484	745	6751510490522250	C_RuleThree2.exe	4054ed950dd3c617
+8	600	6751510655237489	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+601	811	6751510657354190	C_RuleThree2.exe	4054ed950dd3c617
+6	544	6751515233055200	CMakeFiles/C_RuleThree2.dir/main.cpp.obj	eab2dd03be9174e2
+545	1323	6751515240865788	C_RuleThree2.exe	4054ed950dd3c617
